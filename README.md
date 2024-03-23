@@ -6,15 +6,12 @@ This project is a clone of the popular e-commerce platform Flipkart. It aims to 
 
 ## Features
 
-- Browse products by category
-- Search for products
-- View product details, including images, description, and price
-- Add products to cart
-- Checkout process
-- User authentication and authorization
-- User profiles
-- Wishlist functionality
-- Order history
+- Product Catalog: Explore a diverse range of products across various categories, including electronics, fashion, home appliances, and more.
+- Search Functionality: Quickly find desired products using a powerful search engine with filters and sorting options.
+- Product Details: Access detailed information about each product, including images, descriptions, specifications, customer reviews, and pricing details.
+- User Authentication: Register new accounts or log in securely with existing credentials to access personalized features such as order history and saved addresses.
+- Cart Management: Add products to the shopping cart, update quantities, and remove items as needed. Users can review their cart contents before proceeding to checkout.
+- Responsive Design: Enjoy a consistent and user-friendly interface across devices, including desktops, tablets, and smartphones.
 
 ## Technologies Used
 
@@ -34,5 +31,13 @@ This project is a clone of the popular e-commerce platform Flipkart. It aims to 
 
 1. Clone the repository:
 2. git clone https://github.com/Roshanmanwar/E-CommarceWebApp
+
+3. npm install
+
+4. npm start
+5. Visit http://localhost:3000 in your web browser to view the app.
+
+
+
 
 
