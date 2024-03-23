@@ -1,11 +1,7 @@
-<img src="https://github.com/Roshanmanwar/E-CommarceWebApp/blob/master/home.JPG"/>
-<img src="https://github.com/Roshanmanwar/E-CommarceWebApp/blob/master/login.JPG"/>
-<img src="https://github.com/Roshanmanwar/E-CommarceWebApp/blob/master/product.JPG"/>
-<img src="https://github.com/Roshanmanwar/E-CommarceWebApp/blob/master/detail.JPG"/>
-
-
-
 # E-CommarceWebApp
+
+# Home Page
+<img src="https://github.com/Roshanmanwar/E-CommarceWebApp/blob/master/home.JPG"/>
 
 This project is a clone of the popular e-commerce platform Flipkart. It aims to replicate the main features and functionalities of Flipkart, providing users with a familiar shopping experience.
 
@@ -41,6 +37,23 @@ This project is a clone of the popular e-commerce platform Flipkart. It aims to 
 
 4. npm start
 5. Visit http://localhost:3000 in your web browser to view the app.
+
+# Login page
+<img src="https://github.com/Roshanmanwar/E-CommarceWebApp/blob/master/login.JPG"/>
+
+# Search Product
+<img src="https://github.com/Roshanmanwar/E-CommarceWebApp/blob/master/product.JPG"/>
+
+# Product Details
+<img src="https://github.com/Roshanmanwar/E-CommarceWebApp/blob/master/detail.JPG"/>
+
+# Cart
+<img src="https://github.com/Roshanmanwar/E-CommarceWebApp/blob/master/cart.JPG"/>
+
+
+
+
+
 
 
 
