@@ -1,6 +1,6 @@
-<img src=""/>
+<img src="https://github.com/Roshanmanwar/E-CommarceWebApp/blob/master/home.JPG"/>
 
-# Flipkart Clone
+# E-CommarceWebApp
 
 This project is a clone of the popular e-commerce platform Flipkart. It aims to replicate the main features and functionalities of Flipkart, providing users with a familiar shopping experience.
 
@@ -24,8 +24,15 @@ This project is a clone of the popular e-commerce platform Flipkart. It aims to 
 - Redux for state management
 - Axios for handling HTTP requests
 - Bootstrap for styling
+- Session for User Authentication
+- cors() middleware to handle Cross-Origin Resource Sharing (CORS).
+- React Router DOM for smooth navigation.
+- Postman API for text Api.
+- React Hooks for Manage State in app
 
 ## Installation
 
 1. Clone the repository:
+2. git clone https://github.com/your-username/flipkart-clone.git
+
 
