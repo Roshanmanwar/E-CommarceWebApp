@@ -33,6 +33,6 @@ This project is a clone of the popular e-commerce platform Flipkart. It aims to 
 ## Installation
 
 1. Clone the repository:
-2. git clone https://github.com/your-username/flipkart-clone.git
+2. git clone https://github.com/Roshanmanwar/E-CommarceWebApp
 
 
